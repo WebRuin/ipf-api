@@ -4,9 +4,9 @@
   "description": "Rest API for iPeeFreely",
   "main": "server.js",
   "scripts": {
-    "test": "node server.js",
-    "start": "node server.js",
-    "postinstall": "node server.js"
+    "test": "sudo node server.js",
+    "start": "sudo node server.js",
+    "postinstall": "sudo node server.js"
 
   },
   "author": "",
