@@ -2,11 +2,11 @@
   "name": "rest",
   "version": "1.0.0",
   "description": "Rest API for iPeeFreely",
-  "main": "db.json",
+  "main": "server.js",
   "scripts": {
-    "test": "json-server --watch db.json",
-    "start": "json-server --watch db.json",
-    "postinstall": "json-server --watch db.json --port 80"
+    "test": "node server.js",
+    "start": "node server.js",
+    "postinstall": "node server.js"
 
   },
   "author": "",
