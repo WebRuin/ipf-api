@@ -5,7 +5,7 @@
   "main": "db.json",
   "scripts": {
     "test": "json-server --watch db.json"
-    "postinstall": "json-server --watch db.json"
+    "start": "json-server --watch db.json"
     "postinstall": "json-server --watch db.json"
 
   },
