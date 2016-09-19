@@ -1,0 +1,48 @@
+{
+  "bathrooms": [
+    {
+      "id": 1,
+      "name": "Walnut Creek Starbucks",
+      "lat": "37.910078",
+      "long": "-122.065182",
+      "date_found": "12/16/2015",
+      "last_confirmed": "12/25/2015",
+      "description": "You need to be a customer to us the bathroom",
+      "listSrc": "http://maps.google.com/?q="
+    }, {
+      "id": 2,
+      "name": "Concord Starbucks",
+      "lat": "37.977978",
+      "long": "-122.031073",
+      "date_found": "12/16/2015",
+      "last_confirmed": "12/25/2015",
+      "description": "You need to be a customer to us the bathroom",
+      "listSrc": "http://maps.google.com/?q="
+    }, {
+      "id": 3,
+      "name": "San Francisco Starbucks",
+      "lat": "37.774929",
+      "long": "-122.419416",
+      "date_found": "12/16/2015",
+      "last_confirmed": "12/25/2015",
+      "description": "You need to be a customer to us the bathroom",
+      "listSrc": "http://maps.google.com/?q="
+    }, {
+      "id": 4,
+      "name": "Berekely Starbucks",
+      "lat": "37.871593",
+      "long": "-122.272747",
+      "date_found": "12/16/2015",
+      "last_confirmed": "12/25/2015",
+      "description": "You need to be a customer to us the bathroom",
+      "listSrc": "http://maps.google.com/?q="
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "Tim Smith",
+      "email": "tim.smith.hdg@gmail.com"
+    }
+  ]
+}
