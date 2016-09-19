@@ -5,6 +5,9 @@
   "main": "db.json",
   "scripts": {
     "test": "json-server --watch db.json"
+    "postinstall": "json-server --watch db.json"
+    "postinstall": "json-server --watch db.json"
+
   },
   "author": "",
   "license": "ISC",
